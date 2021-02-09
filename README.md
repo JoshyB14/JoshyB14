@@ -4,6 +4,10 @@
   
 ## 🔧 Technologies & Tools
 
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JoshyB14 alt=JoshyB14 /> </p>
