@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋, This is Josh Bryden
 [![Gmail Badge](https://img.shields.io/badge/-jbryden14@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jbryden14@gmail.com)](mailto:jbryden14@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/joshbryden14/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/joshbryden14//)](https://www.linkedin.com/in/https://www.linkedin.com/in/joshbryden14//) [![Github Badge](https://img.shields.io/badge/-JoshyB14-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JoshyB14/)](https://www.github.com/JoshyB14/) <p align='left'>Hi, I'm Josh - an aspiring Data Scientist pursing a Master of Science in Health Data Science at UNSW. Previously BMedSci @ USYD</p>
+[![Linkedin Badge](https://img.shields.io/badge/-joshbryden14-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshbryden14/)](https://www.linkedin.com/in/joshbryden14/) [![Github Badge](https://img.shields.io/badge/-JoshyB14-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JoshyB14/)](https://www.github.com/JoshyB14/) [![Twitter Badge](https://img.shields.io/badge/-jbryden14@gmail.com-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/jbryden14@gmail.com/)](https://www.twitter.com/jbryden14@gmail.com/) <p align='left'>Hi, I'm Josh - an aspiring Data Scientist pursing a Master of Science in Health Data Science at UNSW. Previously BMedSci @ USYD</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JoshyB14 alt=JoshyB14 /> </p>
 
