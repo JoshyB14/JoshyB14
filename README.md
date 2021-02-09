@@ -5,7 +5,8 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=Jupyter)
+
+![](https://img.shields.io/badge/Tools-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 
