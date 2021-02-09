@@ -5,9 +5,14 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
-
+![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=R&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=SQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-
+![](https://img.shields.io/badge/Tools-VScode-informational?style=for-the-badge&logo=Vscode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rstudio-informational?style=for-the-badge&logo=rstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Macos-informational?style=for-the-badge&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
