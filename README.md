@@ -15,8 +15,7 @@
 ![](https://img.shields.io/badge/OS-Macos-informational?style=for-the-badge&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=JoshyB14 alt=JoshyB14 /> </p>
+## GitHub Stats
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=JoshyB14&show_icons=true&include_all_commits=true)](https://github.com/JoshyB14/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshyB14&layout=compact)](https://github.com/JoshyB14/github-readme-stats)
