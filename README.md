@@ -2,6 +2,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jbryden14@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jbryden14@gmail.com)](mailto:jbryden14@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-joshbryden14-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshbryden14/)](https://www.linkedin.com/in/josh-bryden14/) <p align='left'>Hi, I'm Josh - an aspiring Data Scientist pursing a Master of Science in Health Data Science at UNSW. Previously BMedSci @ USYD. I am driven and have a passion for all things data.
   
+<img align="right" alt="GIF" src="https://github.com/JoshyB14/JoshyB14/blob/main/code.gif?raw=true" width="500" height="320" />
 
 # 🔧 Technologies & Tools
 
