@@ -27,7 +27,7 @@
 Used Jupyter and Python to analyse and clean a transactional/ banking  dataset before using Seaborn and Plotly to produce visualisations and Sklearn to predict annual salary of account holders. [See here](https://github.com/JoshyB14/ANZ_Data_Virtual_Internship)
 
 ### Quantium Data Analytics Virtual Internship
-Used Python to analyse and clean a FMCG dataset from a major supermarket, to examine spending based on loyalty card information. Next I examined the results of a instore trial and how this affected overall sales and customer numbers.
+Used Python to analyse and clean a FMCG dataset from a major supermarket, to examine spending based on loyalty card information. Next I examined the results of a instore trial and how this affected overall sales and customer numbers. [See here](https://github.com/JoshyB14/Quantium_Data_Analytics_Virtual_Internship)
 
 ## GitHub Stats
 
