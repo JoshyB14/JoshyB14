@@ -12,6 +12,8 @@
 ![](https://img.shields.io/badge/Code-Rstudio-informational?style=for-the-badge&logo=rstudio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=for-the-badge&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-GCP-informational?style=for-the-badge&logo=azure&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Macos-informational?style=for-the-badge&logo=apple&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
 
