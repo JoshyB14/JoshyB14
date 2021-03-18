@@ -23,6 +23,10 @@
 
 # 🚧 Projects
   😃 + 💻 + 🧠 = 🏆
+
+### Wall Street Bets (WSB) Reddit Post Analysis
+Used Jupyter to analyse WSB Reddit posts of the Gamestop Saga in early 2021. A work in progress: Natural Language Processing coming soon! [See here](https://github.com/JoshyB14/Wall-Street-Bets-Reddit)
+
 ### ANZ Virtual Data Internship
 Used Jupyter and Python to analyse and clean a transactional/ banking  dataset before using Seaborn and Plotly to produce visualisations and Sklearn to predict annual salary of account holders. [See here](https://github.com/JoshyB14/ANZ_Data_Virtual_Internship)
 
