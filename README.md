@@ -35,6 +35,6 @@ Used Python to analyse and clean a FMCG dataset from a major supermarket, to exa
 
 ## GitHub Stats
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshyB14&show_icons=true&count_private=true?&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshyB14&show_icons=true&count_private=true?&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshyB14&layout=compact&show_icons=true&count_private=true?&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshyB14&layout=compact&show_icons=true&count_private=true?&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
